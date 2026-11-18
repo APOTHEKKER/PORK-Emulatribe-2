@@ -208,6 +208,17 @@ Gefällt dir das Projekt? Ein ⭐ auf dem Repository freut mich!
 
 ---
 
+## 📜 Rechtliches
+
+PORK Emulatribe 2 ist ein unabhängiges Projekt und steht in keiner Verbindung zu KORG Inc. *KORG*, *electribe* und weitere genannte Namen sind Marken ihrer jeweiligen Inhaber. Es wird keine KORG-Firmware mitgeliefert. Nutze nur Firmware, für die du die Rechte besitzt.
+
+<div align="center">
+
+<sub>Mit ❤️ für die electribe-Community</sub>
+
+
+---
+
 ## 📁 Inhalt dieses Repositories
 
 Hier liegt **kein Quellcode**, sondern nur das, was das Setup selbst herunterlädt:
@@ -220,15 +231,5 @@ Hier liegt **kein Quellcode**, sondern nur das, was das Setup selbst herunterlä
 | `changelogs/` | ein Changelog pro Release, Name `TT.MM.JJJJ.txt` |
 | `languages/` | Sprachdateien des Setups (`de`, `es`, `fr`, `ru`) |
 | `assets/` | KORG-Treiber, Schriften, WebView2-Installer und -Laufzeit (in Teilen unter 50 MB, `.parts` = Anzahl + SHA-256) |
-
----
-
-## 📜 Rechtliches
-
-PORK Emulatribe 2 ist ein unabhängiges Projekt und steht in keiner Verbindung zu KORG Inc. *KORG*, *electribe* und weitere genannte Namen sind Marken ihrer jeweiligen Inhaber. Es wird keine KORG-Firmware mitgeliefert. Nutze nur Firmware, für die du die Rechte besitzt.
-
-<div align="center">
-
-<sub>Mit ❤️ für die electribe-Community</sub>
 
 </div>
