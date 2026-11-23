@@ -1,0 +1,7 @@
+Nov 23, 2026 (v1.26.110)
+New Features
+    - (MIDI) MIDI Learn for any controller (e.g. KORG nanoKONTROL): the new "MIDI-Controller" page shows a sketch of the emulator; pick an element, move a control on your hardware and it is linked, like "Link to controller" in FL Studio. Knobs and touch pad axes only accept knob, fader, wheel or encoder controls. Per controller: thru, knob takeover (global, jump, catch) and velocity.
+    - (MIDI) A connected electribe 2 now runs in parallel with the emulator: it is detected automatically (blue synth or red sampler), the emulator switches to the system installed on the device, and patterns, knobs, notes and program changes follow in both directions.
+    - (Update) The desktop app checks for updates at every start. If a newer version is out, a popup asks whether to update; with "Jetzt aktualisieren" the newest setup is downloaded and started.
+Improvements
+    - (MIDI) The "MIDI & electribe" page has settings for automatic connection, device and system detection, notes, program changes and pattern sync.
